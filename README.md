@@ -1,0 +1,1 @@
+# character_counter<br>A character counter is created using HTML, CSS, and JavaScript to display the number of characters and words in a text input or textarea field. JavaScript listens for input events, calculates the character count, splits the text into words, and updates the display in real-time. CSS styles the counter and input field for a user-friendly interface.
